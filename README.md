@@ -20,6 +20,7 @@ All projects were completed during my &
 
 ### 🌱 C#
 Course long project in which we made an E-Commerce application using Xamarin 🛒
+- [Basic Console Application](https://github.com/addisonnugent/E-Commerce-Basic-Console-Application) 
 - App (avalable on IOS)📱
 - Web Application💻
 - 🖥
