@@ -1,4 +1,4 @@
-### Hi I'm Addison Nugent 👋
+# Hi I'm Addison Nugent 👋
 
 
 ## About me
