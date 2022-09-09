@@ -30,7 +30,7 @@ Course long project in which we made an E-Commerce application using Xamarin �
 - 
 
 ### ☕️ Java 
-- wheel of fortune 🎰
+- [Wheel of Fortune](https://github.com/addisonnugent/Wheel-of-Fortune) 🎰
 
 
 
