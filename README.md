@@ -23,9 +23,10 @@ Course long project in which we made an E-Commerce application using Xamarin �
 - [Xamarin.Forms Application](https://github.com/addisonnugent/E-Commerce-Xamarin.Forms-Application) 
 <!-- - [Web-Services](https://github.com/addisonnugent/E-Commerce-Web-Services) -->
 
-### ⭐️ C++
+<!--### ⭐️ C++
 
 - 
+-->
 
 ### ☕️ Java 
 - [Wheel of Fortune](https://github.com/addisonnugent/Wheel-of-Fortune) 🎰
