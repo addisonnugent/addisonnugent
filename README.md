@@ -14,9 +14,7 @@ I am currently looking for a fall internship in the Fort Myers area.
 
 
 ### 🐍 Python
-All projects were completed during my &
-- Alpahbet Code Project
-- ⚔️🎮
+- [Basic Applicatiion using SQlite3](https://github.com/addisonnugent/BidderApplicationDatabase)
 
 ### 🌱 C# & Xamarin.Forms & HTML
 Course long project in which we made an E-Commerce application using Xamarin 🛒
