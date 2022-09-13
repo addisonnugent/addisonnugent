@@ -3,8 +3,7 @@
 
 ## About me
 Current student at Florida State University majoring in Computer Programming & Application Major and minoring in Mathmatics.
-
-I am currently looking for a fall internship in the Fort Myers area. 
+ 
 
 ## Helpful Links
 ####    - Link to [Resume](https://addisonnugent.github.io/Resume/) 
