@@ -2,7 +2,7 @@
 
 
 ## About me
-Current student at Florida State University majoring in Computer Programming & Applications Major and minoring in Mathmatics.
+Current student at Florida State University majoring in Computer Programming & Applications and minoring in Mathmatics.
  
 
 ## Helpful Links
